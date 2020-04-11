@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 5e047f6baab7140298c4ed298322f4d3
+  - enabled: 1
+    path: Assets/Scenes/HelloXR.unity
+    guid: 9f2831d30fdff4b3fb32def3b9fecd33
+  m_configObjects: {}
